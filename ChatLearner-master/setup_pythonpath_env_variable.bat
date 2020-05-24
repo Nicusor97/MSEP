@@ -1,0 +1,1 @@
+set PYTHONPATH=F:\Facultate Anul 4\LucrareLicenta\ChatLearner-master\ChatLearner-master
